@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+Backend/.env
+Backend/credentials.json
+Backend/token.json
+banking.db
+Backend/banking.db
+*.sqlite3
+*.db
