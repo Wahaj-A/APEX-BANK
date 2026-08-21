@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31305628/README.md)
+[README.md](https://github.com/user-attachments/files/31305728/README.md)
 <div align="center">
 
 # 🏦 Apex Capital Bank
@@ -13,8 +13,6 @@ purpose-built AI assistants, wired into one clean React + FastAPI app.
 [![Gemini](https://img.shields.io/badge/AI-Gemini-4285F4?logo=google&logoColor=white)](https://ai.google.dev/)
 [![Tailwind](https://img.shields.io/badge/Styling-Tailwind_v4-38BDF8?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-Proprietary-lightgrey)]()
-
-<img width="820" alt="Apex Capital Bank screenshot" src="PASTE_YOUR_SCREENSHOT_URL_HERE" />
 
 </div>
 
@@ -171,17 +169,6 @@ You'll need API keys for:
 Full step-by-step setup for Google OAuth and the Calendar agent is in
 [`GOOGLE_OAUTH_SETUP.md`](./GOOGLE_OAUTH_SETUP.md) and
 [`CALENDAR_AGENT_SETUP.md`](./CALENDAR_AGENT_SETUP.md).
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-<img width="800" alt="Dashboard" src="PASTE_YOUR_SCREENSHOT_URL_HERE" />
-</div>
-
-> Add more screenshots here — the AI Assistant, Email Agent, and Calendar
-> Agent views all make great showcases.
 
 ---
 
